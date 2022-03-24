@@ -1,0 +1,12 @@
+C:\Stage 2 Ensek\Ensek\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Stage 2 Ensek\Ensek\Domain\bin\Debug\net6.0\Domain.dll
+C:\Stage 2 Ensek\Ensek\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.dll
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Stage 2 Ensek\Ensek\Domain\obj\Debug\net6.0\ref\Domain.dll

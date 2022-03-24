@@ -1,0 +1,17 @@
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\Services.deps.json
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\Services.dll
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\Services.pdb
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\Domain.dll
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\EnsekData.dll
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\Domain.pdb
+C:\Stage 2 Ensek\Ensek\Services\bin\Debug\net6.0\EnsekData.pdb
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.dll
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\Services.pdb
+C:\Stage 2 Ensek\Ensek\Services\obj\Debug\net6.0\ref\Services.dll
